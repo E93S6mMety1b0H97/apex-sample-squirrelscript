@@ -19,7 +19,7 @@ Download "Titanfall_VPKTool3.4_Portable.zip" from "https://github.com/Wanty5883/
   
 Open "englishclient_frontend.bsp.pak000_dir.vpk" in "...../Steam/steamapps/common/Apex Legends/vpk/" with the downloaded "Titalfall VPK Tool", extract and save (delete the log file)  
   
-Edit scripts in extracted files  
+Replace files using files in this repository (or edit scripts in the extracted files)  
   
 Repack with "Titalfall VPK Tool"  
   
