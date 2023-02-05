@@ -9,7 +9,7 @@ tutorial bypass
 fullmap radar  
 minimap radar  
 item icon ESP  
-health ESP  
+seer health ESP  
 autoloot  
   
 (You can edit the script however you like)  
