@@ -15,7 +15,7 @@ autoloot
 (You can edit the script however you like)  
   
 [Usage]  
-Download "Titanfall_VPKTool3.4_Portable.zip" from "https://github.com/Wanty5883/Titanfall2/blob/master/tools/Titanfall_VPKTool3.4_Portable.zip"  
+Download "Titanfall_VPKTool3.4_Portable.zip" from somewhere  
   
 Open "englishclient_frontend.bsp.pak000_dir.vpk" in "...../Steam/steamapps/common/Apex Legends/vpk/" with the downloaded "Titalfall VPK Tool", extract and save (delete the log file)  
   
