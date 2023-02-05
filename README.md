@@ -1,12 +1,12 @@
 # apex-sample-squirrelscript
 
 Features:  
-  tutorial bypass  
+&emsp;tutorial bypass  
   
-  (original -> https://www.unknowncheats.me/forum/apex-legends/505139-apex-squirrel-scripts.html)  
-  fullmap radar  
-  minimap radar  
-  item icon ESP  
-  health ESP  
-  autoloot  
+&emsp;(original -> https://www.unknowncheats.me/forum/apex-legends/505139-apex-squirrel-scripts.html)  
+&emsp;fullmap radar  
+&emsp;minimap radar  
+&emsp;item icon ESP  
+&emsp;health ESP  
+&emsp;autoloot  
   
