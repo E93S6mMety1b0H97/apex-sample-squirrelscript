@@ -12,6 +12,7 @@ item icon ESP
 health ESP  
 autoloot  
   
+(You can edit the script however you like)  
   
 [Usage]  
 Download "Titanfall_VPKTool3.4_Portable.zip" from "https://github.com/Wanty5883/Titanfall2/blob/master/tools/Titanfall_VPKTool3.4_Portable.zip"  
