@@ -1,5 +1,7 @@
 # apex-sample-squirrelscript
-
+  
+Linux Only (Windows requires a different approach)  
+  
 [Features]  
 tutorial bypass  
   
