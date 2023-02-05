@@ -27,5 +27,6 @@ Rename the generated "englishclient_frontend.bsp.pak000_000.vpk" to "client_fron
   
 Move the two generated files back to "...../Steam/steamapps/common/Apex Legends/vpk/"  
   
-[Video]
-https://vimeo.com/795981518
+[Video]  
+https://vimeo.com/795981518  
+  
