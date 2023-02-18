@@ -1,6 +1,6 @@
 # apex-sample-squirrelscript
   
-Linux Only (Windows requires a different approach)  
+Linux Only (Windows -> https://github.com/E93S6mMety1b0H97/apex_modify_script_Windows)  
   
 [Features]  
 tutorial bypass  
